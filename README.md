@@ -1,2 +1,2 @@
-# IBM-Project-5921-1658819999
-Machine Learning-Based Predictive Analytics for Aircraft Engine
+# JAVA-swiggy project
+To build Swiggy Food Order Application that would allow users choose their favourite Food.
